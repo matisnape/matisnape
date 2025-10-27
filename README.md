@@ -1,4 +1,11 @@
-### Hi there 👋
+# Anna Anks Nowak 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D8D71&width=435&lines=Product+Engineer" alt="Product Engineer" />
+
+👩‍💻 Backend-leaning Product Engineer with **10+ years in web application development, integrations and QA**. Combines a user-centric mindset with strong backend expertise in Elixir, Ruby and distributed systems, focusing on scalable architecture, API design and system reliability. Experienced in translating product requirements into maintainable, production-ready solutions.
+
+## 📫 Contact me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anks/)
 
 <!--
 **matisnape/matisnape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
