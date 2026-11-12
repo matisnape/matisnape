@@ -1,6 +1,6 @@
 # Anna Anks Nowak 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D8D71&width=435&lines=Product+Engineer" alt="Product Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D8D71&width=435&lines=AI-first+Product+Engineer" alt="AI-first Product Engineer" />
 
 👩‍💻 Backend-leaning Product Engineer with **10+ years in web application development, integrations and QA**. Combines a user-centric mindset with strong backend expertise in Elixir, Ruby and distributed systems, focusing on scalable architecture, API design and system reliability. Experienced in translating product requirements into maintainable, production-ready solutions.
 
