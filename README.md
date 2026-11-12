@@ -2,7 +2,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D8D71&width=435&lines=AI-first+Product+Engineer" alt="AI-first Product Engineer" />
 
-👩‍💻 Backend-leaning Product Engineer with **10+ years in web application development, integrations and QA**. Combines a user-centric mindset with strong backend expertise in Elixir, Ruby and distributed systems, focusing on scalable architecture, API design and system reliability. Experienced in translating product requirements into maintainable, production-ready solutions.
+👩‍💻 I'm a backend-focused Product Engineer with 10+ years in software development and quality engineering, specializing in Elixir and Phoenix.
+
+I enjoy turning ambiguous problems into working software, from designing complex backend systems to shipping user-facing features. I'm comfortable working across the stack and picking up unfamiliar technologies when the problem calls for it.
+
+My recent work focuses on making AI coding agents reliable enough for production engineering. I build agent harnesses, multi-agent research workflows, and deterministic validation systems that go beyond prompt engineering.
+
+I care about building the right thing, making it reliable, and improving how engineering teams work.
 
 ## 📫 Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anks/)
